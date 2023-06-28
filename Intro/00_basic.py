@@ -5,3 +5,4 @@
 # Machine learning and Artifical intelligence
 # It is Interpreterd language we need interpreter.
 # IDE Intergrated Development Enviorment is used to write code.
+# python is a case senstative language
